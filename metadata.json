@@ -1,0 +1,6 @@
+{
+  "name": "KJV Bible Reader",
+  "description": "A simple, elegant King James Version Bible reader with search, adjustable reading settings, and optional account sign-in for bookmarks and verse highlighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
